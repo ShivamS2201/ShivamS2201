@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Shivam Sharma</b>
-- 👀 I’m interested in AI/ML and Web Dev with interest building up in Blockchain
+- 👀 I’m interested in AI/ML and Web Dev with exp in Scalable Services
 - 🌱 I’m currently learning Problem solving and Critical thinking
 - 💞️ I’m looking to collaborate on anything that gives me new perspective.
 - 📫 How to reach me via my website.
